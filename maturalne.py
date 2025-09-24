@@ -10,3 +10,5 @@ def przestaw(A):
   for k in range(1, len(A)):
     if A[k] < klucz:
     
+#COS
+#uzupelnij teorie i zrobic z praktyki zadanie 4.1
